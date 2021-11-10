@@ -10,11 +10,11 @@
 
 ©︎Furuhashi Laboratory/Kikuchi Kohki, CC BY 4.0
 
-##中間発表
-##【2021年度ゼミ論】タイトル：
-##Introduction
-##Method
-##Result
-##Discussion
-##Conclusion
-##参考文献
+## 中間発表
+## 【2021年度ゼミ論】タイトル：
+## Introduction
+## Method
+## Result
+## Discussion
+## Conclusion
+## 参考文献
