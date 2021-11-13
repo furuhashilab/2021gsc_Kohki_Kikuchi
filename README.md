@@ -1,5 +1,5 @@
 # 2021gsc_Kohki_Kikuchi
-## 2021年度古橋ゼミ論用レポジトリ
+# 2021年度古橋ゼミ論用レポジトリ
 青山学院大学 地球社会共生学部 地球社会共生学科　3年
 
 菊池洸希 / KIKUCHI KOHKI
@@ -11,10 +11,10 @@
 ©︎Furuhashi Laboratory/Kikuchi Kohki, CC BY 4.0
 
 ## 中間発表
-## 【2021年度ゼミ論】タイトル：
-## Introduction
-## Method
-## Result
-## Discussion
-## Conclusion
-## 参考文献
+### 【2021年度ゼミ論】タイトル：
+### Introduction
+### Method
+### Result
+### Discussion
+### Conclusion
+### 参考文献
