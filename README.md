@@ -11,10 +11,9 @@
 ©︎Furuhashi Laboratory/Kikuchi Kohki, CC BY 4.0
 
 ## 中間発表
-### 【2021年度ゼミ論】タイトル：
-### Introduction
-### Method
-### Result
-### Discussion
-### Conclusion
-### 参考文献
+### 【2021年度ゼミ論】タイトル： 災害時のUNVT導入における課題と解決
+### スライド
+### Medium
+### グラレコ
+## 参考文献
+https://github.com/un-vector-tile-toolkit/bucharest-paper-drafts/blob/42afbfad2d55fa5fe0cf70d2df12149abc638af9/draft/Fujimura_et_al_FOSS4G2019.pdf
