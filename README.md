@@ -18,5 +18,5 @@ https://docs.google.com/presentation/d/1sSjXJ39ZMFUZprj0-_xodpG_17iEjj3mFVuPSO-z
 
 ### グラレコ
 
-## 参考文献
-https://github.com/un-vector-tile-toolkit/bucharest-paper-drafts/blob/42afbfad2d55fa5fe0cf70d2df12149abc638af9/draft/Fujimura_et_al_FOSS4G2019.pdf
+## 参考文献リスト
+https://docs.google.com/spreadsheets/d/1XJQ7ZuN18UEj8fmp4vFUclrJZ3TLgDixdDmo9DB-RRg/edit?usp=sharing
