@@ -17,7 +17,7 @@ https://docs.google.com/presentation/d/1sSjXJ39ZMFUZprj0-_xodpG_17iEjj3mFVuPSO-z
 ### Medium
 
 ### グラレコ
-![Nezuko Kamado](https://user-images.githubusercontent.com/62432677/105676810-61ddeb00-5f2e-11eb-80b7-4fb928c2cb93.png)
+![gr2021_kk01](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/9eeb5266e696b65b1a71588fa27671d70b52a0c0/%E7%84%A1%E9%A1%8C10_20211116004048.png)
 
 ## 先行事例
 1. https://github.com/unvt/equinox
