@@ -21,7 +21,7 @@ https://docs.google.com/presentation/d/1sSjXJ39ZMFUZprj0-_xodpG_17iEjj3mFVuPSO-z
 ## 先行事例
 1. https://github.com/unvt/equinox
 2. https://github.com/unvt/pm/issues/9
-3. 
+3. https://qiita.com/JinIgarashi/items/ee35b87da95779235e1b
 
 ## 参考文献リスト
 https://docs.google.com/spreadsheets/d/1XJQ7ZuN18UEj8fmp4vFUclrJZ3TLgDixdDmo9DB-RRg/edit?usp=sharing
