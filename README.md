@@ -43,7 +43,7 @@ Googleスプレッドシートには、②の(1)を含む「How To’s」、(2)�
 
 # Results　　
 作成したアプリURL：https://spacial-harmony-4996.glideapp.io/　　
-![アプリのQRコード](https://user-images.githubusercontent.com/62421184/105748259-3afed380-5f85-11eb-87f4-3cbd78b5a7bf.png)  
+![GithubレポジトリのQRコード](https://user-images.githubusercontent.com/62421184/105748259-3afed380-5f85-11eb-87f4-3cbd78b5a7bf.png)  
 
 # Discussion　
 **1.アプリの内容について**   
