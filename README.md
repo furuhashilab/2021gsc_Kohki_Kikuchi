@@ -42,8 +42,8 @@ Googleスプレッドシートには、②の(1)を含む「How To’s」、(2)�
 使用したGoogle Slide：https://docs.google.com/spreadsheets/d/1LnEmHl9IM6kedw12KFqJvQC5k6oSyGxur40ATxVma04/edit?usp=sharing　　
 
 # Results　　
-作成したアプリURL：https://spacial-harmony-4996.glideapp.io/　　
-![GithubレポジトリのQRコード](https://user-images.githubusercontent.com/62421184/105748259-3afed380-5f85-11eb-87f4-3cbd78b5a7bf.png)  
+GithubレポジトリURL：https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f9057f81ea1e251339c9d272d4/Layers.md　　
+![GithubレポジトリのQRコード](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)  
 
 # Discussion　
 **1.アプリの内容について**   
