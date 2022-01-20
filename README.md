@@ -1,6 +1,6 @@
 # 2021gsc_Kohki_Kikuchi
 菊池洸希の2020年度ゼミ論用レポジトリ
-# 【2021年度ゼミ論】国連ベクトルタイルツールキット普及のための「Mapboox GL JS style　Specification」和訳と図式化
+# 【2021年度ゼミ論】国連ベクトルタイルツールキット普及のための「Mapboox GL JS tyle　Specification」和訳と図式化
 地球社会共生学部　地球社会共生学科　3年A組63番  
 
 学籍番号：1A119059  　氏名：菊池洸希 
@@ -10,7 +10,7 @@
 ©︎Furuhashi Laboratory/Kikuchi Kohki, CC BY 4.0
 
 ## 概要  
-本研究では、UNVT（国連ベクトルタイルツールキット）が日本でより幅広く活用されるために、そのスタイリングにおいて重要である「Mapboox GL JS style　Specification」のLeyersを翻訳し、概要を図式化した。
+本研究では、UNVT（国連ベクトルタイルツールキット）が日本でより幅広く活用されるために、そのスタイリングにおいて重要である「Mapboox GL JS Style　Specification」のLeyersを翻訳し、概要を図式化した。
 
 **対象者**   
 - 既に所属しているグラレコ部以外のゼミ生  
