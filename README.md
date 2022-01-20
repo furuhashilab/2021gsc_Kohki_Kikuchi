@@ -6,7 +6,7 @@
 指導教員：古橋 大地教授   
 ©︎Furuhashi Laboratory/Kikuchi Kohki, CC BY 4.0
 
-# 概要  
+## 概要  
 本研究では、UNVT（国連ベクトルタイルツールキット）が日本でより幅広く活用されるために、そのスタイリングにおいて重要である「Mapboox GL JS style　Specification」のLeyersを翻訳し、概要を図式化した。
 
 **対象者**   
@@ -19,10 +19,10 @@
 - 方法：アナログ  
 - グラレコ対象：オンライン会議やイベント、動画  
 
-# Introduction
+## Introduction
 　古橋研究室では、ゼミ生全員がグラフィックレコーディング（以下グラレコ）の作成が必須である。しかし、新型コロナウイルスの影響によりグラレコを対面で学ぶ機会がなくなり、グラレコ部以外のゼミ生からグラレコの描き方が分からず、「時間がかかる。うまくかけない。」といった声を聞くことが多かった。そこで、対象を古橋研究室のゼミ生、新しく入ってくる新ゼミ生としたオンラインでも使用できるグラレコ補助アプリの制作を考えた。グラレコ初心者やグラレコに苦手意識がある人には「グラレコの基礎を学べる用」・「レイアウトやイラストに困ったときのお助け用」として、グラレコ部やグラレコに慣れてきた人には「自分のグラレコやイラストなどをまとめる用」としての使用を目的とする。　　
 
-# Methods　　
+## Methods　　
 グラレコ補助アプリの制作にあたって、①現状を分析、②必要なものを作成し、最終的にGlideを使用しアプリを開発した。　　
   
 **①現状を分析**    
@@ -41,11 +41,11 @@ Googleスプレッドシートには、②の(1)を含む「How To’s」、(2)�
   
 使用したGoogle Slide：https://docs.google.com/spreadsheets/d/1LnEmHl9IM6kedw12KFqJvQC5k6oSyGxur40ATxVma04/edit?usp=sharing　　
 
-# Results　　
+## Results　　
 GithubレポジトリURL：https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f9057f81ea1e251339c9d272d4/Layers.md
 ![GithubレポジトリのQRコード](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)  
 
-# Discussion　
+## Discussion　
 **1.アプリの内容について**   
 
 1)似顔絵やテンプレート    
@@ -76,17 +76,19 @@ GithubレポジトリURL：https://github.com/furuhashilab/StyleSpecification4ma
 **3.グラフィックレコーディングを「書く」か「描く」、どちらなのか**　　    
 Graphic Recorder 議論を可視化するグラフィックレコーディングの教科書」（清水純子）、「はじめてのグラフィックレコーディング 考えを図にする、会議を絵にする。」（久保田 麻美 ）を読んだところ「描く」が一般的だった。　　
 
-# Conclusion　　　
+## Conclusion　　　
 今後の課題としては、以下の二つが挙げられる。　　    
 - コンテンツの充実度（グラレコの描き方、グラレコとは、デジタル版について）　　　　    
 - Templateが再考の余地あり　　　　　　　　　    
 　　    
 また、グラレコは組織だけでなく、個人の思考力を助けることを改めて学び、研究を通してグラレコの可能性、有効性を知ることができた。グラレコではイラストとキーワードを主に使用していることから、言語や文化を超えての意思疎通に有効性があると考える。今後ますます発展していくと考えられるグラレコにおいて、グラレコ専用アプリが増加していくのではないかと考えられる。
 
-# 謝辞
+## Reference/参考文献
+
+## Acknowledgements/謝辞
 本研究を進めるにあたり地球社会共生学部の古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
  
-# 資料
+## 資料
 **2020年度ゼミ論本文**  
 https://docs.google.com/document/d/1dErgCbpDEs70XE7SZqAjZeJUcafG9hP3JCBMGZNyc0E/edit?usp=sharing　　  
 **進捗管理用プロジェクト**  
