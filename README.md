@@ -46,6 +46,7 @@ Googleスプレッドシートには、②の(1)を含む「How To’s」、(2)�
 
 ## Results　　
 GithubレポジトリURL：https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f9057f81ea1e251339c9d272d4/Layers.md
+
 ![GithubレポジトリのQRコード](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)  
 
 ## Discussion　
