@@ -97,8 +97,6 @@ Graphic Recorder 議論を可視化するグラフィックレコーディング
 本研究を進めるにあたり地球社会共生学部の古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
  
 ## 資料
-**2020年度ゼミ論本文**  
-https://docs.google.com/document/d/1dErgCbpDEs70XE7SZqAjZeJUcafG9hP3JCBMGZNyc0E/edit?usp=sharing　　  
 **進捗管理用プロジェクト**  
 https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/projects/2  
 **最終プレゼン資料**  
