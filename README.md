@@ -10,7 +10,7 @@
 ©︎Furuhashi Laboratory/Kikuchi Kohki, CC BY 4.0
 
 ## 概要  
-本研究では、UNVT（国連ベクトルタイルツールキット）が日本でより幅広く活用されるために、そのスタイリングにおいて重要である「Mapboox GL JS Style　Specification」のLeyersを翻訳し、概要を図式化した。
+本研究では、UNVT（国連ベクトルタイルツールキット）が日本でより幅広く活用されるために、そのスタイリングにおいて重要である「Mapboox GL JS Style　Specification」のLeyersの項目を翻訳し、概要を図式化した。
 
 **対象者**   
 - 既に所属しているグラレコ部以外のゼミ生  
