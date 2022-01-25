@@ -100,10 +100,10 @@ Graphic Recorder 議論を可視化するグラフィックレコーディング
 **2020年度ゼミ論本文**  
 https://docs.google.com/document/d/1dErgCbpDEs70XE7SZqAjZeJUcafG9hP3JCBMGZNyc0E/edit?usp=sharing　　  
 **進捗管理用プロジェクト**  
-https://github.com/furuhashilab/sotsuron2020/projects/15　　  
+https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/projects/2  
 **最終プレゼン資料**  
-https://docs.google.com/presentation/d/18dggqIuMX8O4rC9_XHh7Mr6lhmqKkXITzkOzVNiXjcs/edit?usp=sharing    
+https://docs.google.com/presentation/d/13QyPYV9XP0rMW9lBEhvvMw2V1saTevBbOVW-3ukvOms/edit?usp=sharing    
 **参考文献リスト**   
 https://docs.google.com/spreadsheets/d/1XJQ7ZuN18UEj8fmp4vFUclrJZ3TLgDixdDmo9DB-RRg/edit#gid=0　  
-**Githubレポジトリ**  
+**「Mapbox GL JS Style Specification」日本語版　　Githubレポジトリ**  
 https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f9057f81ea1e251339c9d272d4/Layers.md
