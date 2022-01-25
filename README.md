@@ -105,5 +105,5 @@ https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/projects/2
 https://docs.google.com/presentation/d/13QyPYV9XP0rMW9lBEhvvMw2V1saTevBbOVW-3ukvOms/edit?usp=sharing    
 **参考文献リスト**   
 https://docs.google.com/spreadsheets/d/1XJQ7ZuN18UEj8fmp4vFUclrJZ3TLgDixdDmo9DB-RRg/edit#gid=0　  
-**「Mapbox GL JS Style Specification」日本語版　　Githubレポジトリ**  
+**「Mapbox GL JS Style Specification」日本語版　Githubレポジトリ**  
 https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f9057f81ea1e251339c9d272d4/Layers.md
