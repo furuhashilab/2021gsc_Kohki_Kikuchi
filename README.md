@@ -45,7 +45,7 @@ Googleスプレッドシートには、②の(1)を含む「How To’s」、(2)�
 使用したGoogle Slide：https://docs.google.com/spreadsheets/d/1LnEmHl9IM6kedw12KFqJvQC5k6oSyGxur40ATxVma04/edit?usp=sharing　　
 
 ## Results　　
-### 「Mapbox GL JS Style Specification」　日本語版 Githubレポジトリ
+### 「Mapbox GL JS Style Specification」日本語版 　Githubレポジトリ
 https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f9057f81ea1e251339c9d272d4/Layers.md
 
 ![GithubレポジトリのQRコード](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png) 
