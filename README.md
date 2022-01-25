@@ -1,6 +1,6 @@
 # 2021gsc_Kohki_Kikuchi
 菊池洸希の2020年度ゼミ論用レポジトリ
-# 【2021年度ゼミ論】国連ベクトルタイルツールキット普及のための「Mapboox GL JS tyle　Specification」和訳と図式化
+# 【2021年度ゼミ論】国連ベクトルタイルツールキット普及のための「Mapboox GL　JS　　Style　Specification」和訳と図式化
 地球社会共生学部　地球社会共生学科　3年A組63番  
 
 学籍番号：1A119059  　氏名：菊池洸希 
