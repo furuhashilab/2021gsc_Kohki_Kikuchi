@@ -20,7 +20,7 @@
   
 **①「Mapbox GL JS Style Specification - Layers」の日本語訳の作成**
 
-Githubレポジトリ「[StyleSpecification4mapbox]」(https://github.com/furuhashilab/StyleSpecification4mapbox)内に、「Mapbox GL JS Style Specification - Layers」の日本語訳をMarkdown形式で作成する。各タイトルやワードには原文と同様のリンクを付け、Mapboxのページに移動できるようにする。また、列挙型で用いられる"visible"や"none"のようなワード、ブルー値で用いられる"true"と"false"、文字列の配列で用いられる"OpenSans Regular"や "Arial Unicode MSRegular"等のワードは開発の際にそのまま使用することを考慮し、原文の通りに記載する。
+Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuhashilab/StyleSpecification4mapbox)内に、「Mapbox GL JS Style Specification - Layers」の日本語訳をMarkdown形式で作成する。各タイトルやワードには原文と同様のリンクを付け、Mapboxのページに移動できるようにする。また、列挙型で用いられる"visible"や"none"のようなワード、ブルー値で用いられる"true"と"false"、文字列の配列で用いられる"OpenSans Regular"や "Arial Unicode MSRegular"等のワードは開発の際にそのまま使用することを考慮し、原文の通りに記載する。
   
 **②「Mapbox GL JS Style Specification - Layers」の図式化**  
 
