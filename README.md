@@ -84,7 +84,7 @@ https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f90
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_props.png">
 
-課題①、②に関して、Reactドキュメント内で参考になる箇所を発見した。
+課題①、②に関して、Reactドキュメント内で参考になる箇所を発見した。ここでは「コンポーネントコンポジション」と"props"という2つのワードに対し、異なる表記がされている。"props"とは、Reactの機能の1つで
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_code.png">
 
