@@ -29,8 +29,7 @@ ___
 語順に異常がある。
 
 <img width="70%" alt="gt_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/gt_01.png">  
-Google翻訳を使うと、正しい語順の日本語訳が作成される。  
-___
+Google翻訳を使うと、正しい語順の日本語訳が作成される。  ___
 
 各タイトルやワードには原文と同様のリンクを付け、Mapboxのページに移動できるようにする。
 
