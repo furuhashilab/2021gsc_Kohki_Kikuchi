@@ -62,7 +62,7 @@ https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f90
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
 
-上記の画像のように、「バット」と`butt`は同じワードであるが、説明のため上部には「バット」、開発時を意識して下部には"butt"と記載した。しかしこの状態では「バット」と"butt"が同じワードであると表現できていないため誤解を招く恐れがある。
+上記の画像のように、「バット」と`＃000000`は同じワードであるが、説明のため上部には「バット」、開発時を意識して下部には"butt"と記載した。しかしこの状態では「バット」と"butt"が同じワードであると表現できていないため誤解を招く恐れがある。
 
 ### 図式化について
 
