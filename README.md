@@ -58,19 +58,19 @@ https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f90
 
 研究の目的である、「Mapbox GL JS Style Specification - Layers」を理解することができる日本語のドキュメントを作成することができた。原本と比較した際に混乱しないよう、リンク付け、シンプルな図表、改行や段落といったMarkdown形式の表現法によって、原本に近い形式にすることができた。一方で、いくつかの問題点も発見した。
 
-- 翻訳するワードと原文の通りに記載するワードとの線引きが不明瞭であった。
+**①翻訳するワードと原文の通りに記載するワードとの線引きが不明瞭であった。**
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
 
 上記の画像のように、「丸」と"round"は同じワードであるが、説明のため上部には「丸」、開発時を意識して下部には"round"と記載した。しかしこの状態では「丸」と"round"が同じワードであると表現できていないため誤解を招く恐れがある。
 
-- 翻訳不能ワードの表記をどうすべきか。
+**②翻訳不能ワードの表記をどうすべきか。**
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8aff03e1ed64457b904290b057522dbdba4dd61a/gh_ss_j_antialiased.png">
 
 上記の画像のように、"antialiased"等のワードは翻訳することができない。こういったワードはカタカナ表記、原文通りの表記のどちらにすべきか。
 
-- 開発時に直接書き込むワードとそうでないものの差別化ができていない。
+**③開発時に直接書き込むワードとそうでないものの差別化ができていない。**
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
 
@@ -78,9 +78,19 @@ https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f90
 
 **解決策**
 
-<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
+<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_home.png">
 
 以上に挙げた課題に対し、[React](https://ja.reactjs.org/)のドキュメントを先行研究として比較対象にし、解決策を提示する。Reactはユーザインタフェース構築のためのJavaScriptライブラリであり、日本語版のドキュメントが用意されている。一部、「Mapbox GL JS Style Specification - Layers」と似ている点もあるため参考にした。
+
+<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_props.png">
+
+課題①、②に関して、Reactドキュメント内で参考になる箇所を発見した。
+
+<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_code.png">
+
+課題③について、Reactドキュメントでも開発時に直接書き込むワードには日本語版でも分かりやすい工夫がされている。Markdown形式には、コードを文章中に入れる「インラインコード」という表現がある。よって、原本に近づけるためにも「インラインコード」に統一することが望ましい。
+
+
 
 
 
