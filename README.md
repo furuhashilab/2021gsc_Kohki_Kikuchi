@@ -16,11 +16,27 @@
 　1970年代、四分木（Quadtree)というデータ構造が生まれてから今日に至るまでデジタルマップは進化を続けてきた。2000年代にはタイル技術が生まれ、2005年にGoogleがラスターピラミッドの機能を持ったラスタータイルマップの完成版であるGoogleマップをリリースした。2006年、ブラウザで地図データを表示するためのJavaScriptライブラリであるOpenLayersがリリース。ライブラリを非公開にしているGoogleマップに対して、OpenLayersはオープンソースであった。さらに2011年には、これらに並んで広く使われているLeafletがVladimir Agafonkin氏によって開発される。Vladimir Agafonkin氏が２０１３年にMapboxに加入すると、翌年にベクタータイルマップに対応したオープンソースライブラリである「Mapbox GL JS」をリリースした。これは2020年に行われたv2.0への移行によって独自ライセンス化するが、この件に批判的なユーザー達が同年、MapboxGLエコシステムのフォークであるMapLibreを開始した。こうしてデジタル地図は進化を続け、現在では非常に速く、軽量で、自由な地図開発が可能になっている。しかし、地図開発において重要なドキュメントの多くは日本語対応していないのが現状である。今後、日本でより多くの人が地図開発を行えるようにこれらのドキュメントを日本語に翻訳していく必要がある。また、地図開発の学習を始める上で、ドキュメントの構造が図式化されているとより理解が深まるが、まだドキュメントの図式化は進んでいない。本研究では、国土地理院が開発している「地理院地図Vector（仮称）」にも採用されている「Mapbox GL JS」のStyle Specificationで特に重要な項目であるLayersの日本語訳を作成し、その概要を図式化した。
 
 ## Methods　　
-本研究で行ったことは以下の二つである。
+本研究で行うことは以下の二つである。
   
 **①「Mapbox GL JS Style Specification - Layers」の日本語訳の作成**
 
-Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuhashilab/StyleSpecification4mapbox)内に、「Mapbox GL JS Style Specification - Layers」の日本語訳をMarkdown形式で作成する。各タイトルやワードには原文と同様のリンクを付け、Mapboxのページに移動できるようにする。また、列挙型で用いられる"visible"や"none"のようなワード、ブルー値で用いられる"true"と"false"、文字列の配列で用いられる"OpenSans Regular"や "Arial Unicode MSRegular"等のワードは開発の際にそのまま使用することを考慮し、原文の通りに記載する。
+Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuhashilab/StyleSpecification4mapbox)内に、「Mapbox GL JS Style Specification - Layers」の日本語訳をMarkdown形式で作成する。
+
+作業効率化のため、基本的にGoogle Chromeのページ翻訳ツールを利用する。翻訳結果に異常があった場合は、Google翻訳を使って正しい日本語訳を作成する。
+
+![翻訳失敗](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)　　
+語順に異常がある。
+
+![Google翻訳](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)　　
+Google翻訳を使うと、正しい語順の日本語訳が作成される。
+
+各タイトルやワードには原文と同様のリンクを付け、Mapboxのページに移動できるようにする。
+
+![リンク](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)　　
+
+列挙型で用いられる"visible"や"none"のようなワード、ブルー値で用いられる"true"と"false"、文字列の配列で用いられる"OpenSans Regular"や "Arial Unicode MSRegular"等のワードは開発の際にそのまま使用することを考慮し、原文の通りに記載する。
+
+![リンク](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)　　
   
 **②「Mapbox GL JS Style Specification - Layers」の図式化**  
 
@@ -37,13 +53,10 @@ https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f90
 ![UMLクラス図](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/cafef41c5575c89a10a37f6e00c804a0881971e4/uml_layers_01.png)
 
 ## Discussion　
-### 和訳について
 
-和訳を作成し、発見した課題は以下の３つである。
+**和訳について**
 
-**1.翻訳の一貫性**
-
-列挙型で用いられるワード等、一部原文のままにしたワードがある。しかし原文にはまだ多くのコードとして記述するワードがあり、本研究の結果ではその選択に一貫性を欠いた。和訳すべきワードとそうでないものとの正しい線引きをしたい。
+日本語でドキュメントを理解することができる日本語訳を作成することができた。
 
 ### 図式化について
 
