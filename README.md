@@ -56,13 +56,19 @@ https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f90
 
 ### 和訳について
 
-研究の目的である、「Mapbox GL JS Style Specification - Layers」を理解することができる日本語のドキュメントを作成することができた。原本と比較した際に混乱しないよう、リンク付け、シンプルな図表、改行や段落といったMarkdown形式の表現法によって、原本に近い形式にすることができた。一方で、いくつかの問題点も発見した。以下、発見した課題を解説した上で、
+研究の目的である、「Mapbox GL JS Style Specification - Layers」を理解することができる日本語のドキュメントを作成することができた。原本と比較した際に混乱しないよう、リンク付け、シンプルな図表、改行や段落といったMarkdown形式の表現法によって、原本に近い形式にすることができた。一方で、いくつかの問題点も発見した。以下、発見した課題を解説した上で、[React](https://ja.reactjs.org/)のドキュメントを参考に解決策を提示する。Reactはユーザインタフェース構築のためのJavaScriptライブラリであり、「Mapbox GL JS」Style Specificationと一部内容が似ている。そして、Reactには日本語版のvドキュメントが用意されている。以上の点で、先行研究として比較対象にした。
 
 - 翻訳するワードと原文の通りに記載するワードとの線引きが不明瞭であった。
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
 
-上記の画像のように、「バット」と`＃000000`は同じワードであるが、説明のため上部には「バット」、開発時を意識して下部には"butt"と記載した。しかしこの状態では「バット」と"butt"が同じワードであると表現できていないため誤解を招く恐れがある。
+上記の画像のように、「丸」と"round"は同じワードであるが、説明のため上部には「丸」、開発時を意識して下部には"round"と記載した。しかしこの状態では「丸」と"round"が同じワードであると表現できていないため誤解を招く恐れがある。
+
+- 翻訳不能ワードの表記をどうすべきか。
+
+<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
+
+上記の画像のように、"antialiased"等のワードは翻訳することができない。こういったワードはカタカナ表記、原文通りの表記のどちらにすべきか。
 
 ### 図式化について
 
