@@ -38,7 +38,7 @@ Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuha
 
 **②「Mapbox GL JS Style Specification - Layers」の図式化**  
 
-UML クラス図の形式に則り、「Mapbox GL JS Style Specification - Layers」の図式化を行う。図の作成にはCanva(グラフィックデザインプラットフォーム)を利用する。図はレイヤー構造が視覚的に把握できるよう、配置と配色を構造ごとに変更する。また、オプション機能にはアイコンを付け、図をシンプルに表現する。
+UML クラス図の形式に則り、「Mapbox GL JS Style Specification - Layers」の図式化を行う。図の作成にはCanva(グラフィックデザインプラットフォーム)を利用する。正式な形式に近づけるため、図は英語表記にする。図はレイヤー構造が視覚的に把握できるよう、配置と配色を構造ごとに変更する。また、オプション機能にはアイコンを付け、図をシンプルに表現する。
 
 <img width="70%" alt="canva_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/54ceacd0a529b718793b724247176fbedc7839a0/canva_01.png">
 
