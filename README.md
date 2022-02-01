@@ -54,9 +54,15 @@ https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f90
 
 ## Discussion　
 
-**和訳について**
+### 和訳について
 
-日本語でドキュメントを理解することができる日本語訳を作成することができた。
+研究の目的である、「Mapbox GL JS Style Specification - Layers」を理解することができる日本語のドキュメントを作成することができた。原本と比較した際に混乱しないよう、リンク付け、シンプルな図表、改行や段落といったMarkdown形式の表現法によって、原本に近い形式にすることができた。一方で、いくつかの問題点も発見した。以下、発見した課題を解説した上で、
+
+- 翻訳するワードと原文の通りに記載するワードとの線引きが不明瞭であった。
+
+<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
+
+上記の画像のように、「バット」と'butt'は同じワードであるが、説明のため上部には「バット」、開発時を意識して下部には"butt"と記載した。しかしこの状態では「バット」と"butt"が同じワードであると表現できていないため誤解を招く恐れがある。
 
 ### 図式化について
 
@@ -65,8 +71,6 @@ https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f90
 **1.情報の取捨選択**
 
 「Mapbox GL JS Style Specification - Layers」は最も記述の多いドキュメントであり、その多くがタイプの詳細な設定についてである。本研究ではこれらを全て図にまとめるのは情報過多であるとの判断で、タイプ１０種類のみを掲載している。タイプの詳細な設定なども図式化したい。
-
-
 
 ## Conclusion　　　
 今後の課題としては、以下の二つが挙げられる。　　    
