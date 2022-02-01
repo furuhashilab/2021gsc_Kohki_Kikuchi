@@ -33,7 +33,7 @@ Google翻訳を使うと、正しい語順の日本語訳が作成される。
 
 ![リンク](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_link.png)　　
 
-列挙型で用いられる"visible"や"none"のようなワード、ブルー値で用いられる"true"と"false"、文字列の配列で用いられる"OpenSans Regular"や "Arial Unicode MSRegular"等のワードは開発の際にそのまま使用することを考慮し、原文の通りに記載する。
+列挙型で用いられる"visible"や"none"のようなワード、ブルー値で用いられる"true"と"false"、文字列の配列で用いられる"visible"や "none"等のワードは開発の際にそのまま使用することを考慮し、原文の通りに記載する。
 
 ![word](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png)　　
   
