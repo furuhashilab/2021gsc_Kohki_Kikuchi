@@ -20,7 +20,9 @@
   
 **①「Mapbox GL JS Style Specification - Layers」の日本語訳の作成**
 
-Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuhashilab/StyleSpecification4mapbox)内に、「Mapbox GL JS Style Specification - Layers」の日本語訳をMarkdown形式で作成する。  
+Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuhashilab/StyleSpecification4mapbox)内に、「Mapbox GL JS Style Specification - Layers」の日本語訳をMarkdown形式で作成する。
+
+___
 作業効率化のため、基本的にGoogle Chromeのページ翻訳ツールを利用する。翻訳結果に異常があった場合は、Google翻訳を使って正しい日本語訳を作成する。
 
 <img width="70%" alt="mb_ss_j_miss" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_miss.png">  
@@ -28,7 +30,7 @@ Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuha
 
 <img width="70%" alt="gt_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/gt_01.png">  
 Google翻訳を使うと、正しい語順の日本語訳が作成される。
-
+___
 
 各タイトルやワードには原文と同様のリンクを付け、Mapboxのページに移動できるようにする。
 
