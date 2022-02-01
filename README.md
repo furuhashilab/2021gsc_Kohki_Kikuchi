@@ -38,7 +38,7 @@ Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuha
 
 **②「Mapbox GL JS Style Specification - Layers」の図式化**  
 
-UML クラス図の形式に則り、「Mapbox GL JS Style Specification - Layers」の図式化を行う。図の作成にはCanva(グラフィックデザインプラットフォーム)を利用する。レイヤー構造が視覚的に把握できるよう、配置と配色を構造ごとに変更する。また、オプション機能にはアイコンを付け、図をシンプルに表現する。
+UML クラス図の形式に則り、「Mapbox GL JS Style Specification - Layers」の図式化を行う。図の作成にはCanva(グラフィックデザインプラットフォーム)を利用する。図はレイヤー構造が視覚的に把握できるよう、配置と配色を構造ごとに変更する。また、オプション機能にはアイコンを付け、図をシンプルに表現する。
 
 <img width="70%" alt="canva_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/54ceacd0a529b718793b724247176fbedc7839a0/canva_01.png">
 
@@ -47,10 +47,10 @@ UML クラス図の形式に則り、「Mapbox GL JS Style Specification - Layer
 ### 「Mapbox GL JS Style Specification - Layers」日本語版 　Githubレポジトリ
 https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f9057f81ea1e251339c9d272d4/Layers.md
 
-![GithubレポジトリのQRコード](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png) 
+<img alt="qr_StyleSpecification4mapbox" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png">
 
-### UML クラス図
-![UMLクラス図](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/cafef41c5575c89a10a37f6e00c804a0881971e4/uml_layers_01.png)
+### 「Mapbox GL JS Style Specification - Layers」UML クラス図
+<img alt="uml_layers_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/cafef41c5575c89a10a37f6e00c804a0881971e4/uml_layers_01.png">
 
 ## Discussion　
 
