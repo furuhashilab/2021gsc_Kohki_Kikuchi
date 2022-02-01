@@ -24,19 +24,19 @@ Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuha
 
 作業効率化のため、基本的にGoogle Chromeのページ翻訳ツールを利用する。翻訳結果に異常があった場合は、Google翻訳を使って正しい日本語訳を作成する。
 
-![翻訳失敗](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)　　
+![翻訳失敗](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_miss.png)　　
 語順に異常がある。
 
-![Google翻訳](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)　　
+![Google翻訳](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/gt_01.png)　　
 Google翻訳を使うと、正しい語順の日本語訳が作成される。
 
 各タイトルやワードには原文と同様のリンクを付け、Mapboxのページに移動できるようにする。
 
-![リンク](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)　　
+![リンク](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_link.png)　　
 
 列挙型で用いられる"visible"や"none"のようなワード、ブルー値で用いられる"true"と"false"、文字列の配列で用いられる"OpenSans Regular"や "Arial Unicode MSRegular"等のワードは開発の際にそのまま使用することを考慮し、原文の通りに記載する。
 
-![リンク](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png)　　
+![word](https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png)　　
   
 **②「Mapbox GL JS Style Specification - Layers」の図式化**  
 
