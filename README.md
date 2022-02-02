@@ -42,39 +42,21 @@ UML クラス図の形式に則り、「Mapbox GL JS Style Specification - Layer
 
 <img width="70%" alt="canva_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/54ceacd0a529b718793b724247176fbedc7839a0/canva_01.png">
 
-## Results　　
-
-### 「Mapbox GL JS Style Specification - Layers」日本語版 　Githubレポジトリ
-https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f9057f81ea1e251339c9d272d4/Layers.md
-
-<img alt="qr_StyleSpecification4mapbox" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/da23dbb02244ca8086951ecbc5ff525f8961203b/qr_StyleSpecification4mapbox:Layers.png">
-
-### 「Mapbox GL JS Style Specification - Layers」UML クラス図
-<img alt="uml_layers_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/cafef41c5575c89a10a37f6e00c804a0881971e4/uml_layers_01.png">
-
-## Discussion　
-
-### 和訳について
-
-研究の目的である、「Mapbox GL JS Style Specification - Layers」を理解することができる日本語のドキュメントを作成することができた。原本と比較した際に混乱しないよう、リンク付け、シンプルな図表、改行や段落といったMarkdown形式の表現法によって、原本に近い形式にすることができた。一方で、いくつかの問題点も発見した。
-
-**①翻訳するワードと原文の通りに記載するワードとの線引きが不明瞭であった。**
-
-<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
-
-上記の画像のように、「丸」と"round"は同じワードであるが、説明のため上部には「丸」、開発時を意識して下部には"round"と記載した。しかしこの状態では「丸」と"round"が同じワードであると表現できていないため誤解を招く恐れがある。
-
-**②翻訳不能ワードの表記をどうすべきか。**
-
-<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8aff03e1ed64457b904290b057522dbdba4dd61a/gh_ss_j_antialiased.png">
+## Results　　gsrc="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8aff03e1ed64457b904290b057522dbdba4dd61a/gh_ss_j_antialiased.png">
 
 上記の画像のように、"antialiased"等のワードは翻訳することができない。こういったワードはカタカナ表記、原文通りの表記のどちらにすべきか。
 
-**③開発時に直接書き込むワードとそうでないものの差別化ができていない。**
+**②開発時に直接書き込むワードとそうでないものの差別化ができていない。**
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
 
 上記の画像のように、"map"等の開発時に直接書き込むワードにはクォーテーションマーク（日本語には鉤括弧）を付けているが原本と表現が異なる。より理解しやすくするために、原本に近い表現に統一すべきである。
+
+**③翻訳するワードと原文の通りに記載するワードとの線引きが不明瞭であった。**
+
+<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
+
+上記の画像のように、「丸」と"round"は同じワードであるが、説明のため上部には「丸」、開発時を意識して下部には"round"と記載した。しかしこの状態では「丸」と"round"が同じワードであると表現できていないため誤解を招く恐れがある。
 
 **解決策**
 
@@ -84,30 +66,26 @@ https://github.com/furuhashilab/StyleSpecification4mapbox/blob/ed5cd80c0f0872f90
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_props.png">
 
-課題①、②に関して、Reactドキュメント内では「コンポーネントコンポジション」と"props"という2つのワードに対し、異なる表記がされている。"props"とは、Reactの機能の1つである。つまり、固有名詞は原文のまま記載するというルールになっていると考えられる。
+課題①に関して、Reactドキュメント内では「コンポーネントコンポジション」と"props"という2つのワードに対し、異なる表記がされている。"props"とは、Reactの機能の1つである。つまり、固有名詞は原文のまま記載するというルールになっていると考えられる。
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_code.png">
 
-課題③について、Reactドキュメントでも開発時に直接書き込むワードには日本語版でも分かりやすい工夫がされている。Markdown形式には、コードを文章中に入れる「インラインコード」という表現がある。よって、原本に近づけるためにも「インラインコード」に統一することが望ましい。
+課題②について、Reactドキュメントでも開発時に直接書き込むワードには日本語版でも分かりやすい工夫がされている。Markdown形式には、コードを文章中に入れる「インラインコード」という表現がある。よって、原本に近づけるためにも「インラインコード」に統一することが望ましい。
 
-
-
-
+課題③については、課題①、②に対する解決策で提示したルールを適応し統一することが適切であると考える。つまり翻訳できないワードについては、固有名詞と開発時に直接書き込むワードは原文の通りに記載し、そうでない場合はカタカナ表記にする。また、同じワードに対し異なる表記を用いることはすべきではない。
 
 ### 図式化について
 
-図式化し、発見した課題は以下の３つである。
-
-**1.情報の取捨選択**
-
-「Mapbox GL JS Style Specification - Layers」は最も記述の多いドキュメントであり、その多くがタイプの詳細な設定についてである。本研究ではこれらを全て図にまとめるのは情報過多であるとの判断で、タイプ１０種類のみを掲載している。タイプの詳細な設定なども図式化したい。
+「Mapbox GL JS Style Specification - Layers」は最も記述の多いドキュメントであり、その多くがタイプの詳細な設定についてである。本研究ではこれらを全て図にまとめるのは情報過多であるとの判断で、タイプ１０種類のみを掲載している。UMLクラス図の継承階層の概念を用いて、レイヤー構造を視覚的に表現するために、それらがどこの項目に属するのかを矢印で示した。本来、UML図では色を使うことはないが、本研究は「Mapbox GL JS Style Specification - Layers」の理解を補助することが目的であるため、階層ごとに色分けをした。本研究の目的に合わせた図を作成することはできたが、「Mapbox GL JS」を用いたウェブ地図の構造はSourcesやRoot等の概念も含めた複雑なものである。それらを含めた全体の構造を表現することを考慮すると、コンポジション表現なども活用すべきである。
 
 ## Conclusion　　　
-今後の課題としては、以下の二つが挙げられる。　　    
-- コンテンツの充実度（グラレコの描き方、グラレコとは、デジタル版について）　　　　    
-- Templateが再考の余地あり　　　　　　　　　    
+
+今後の課題としては、以下の３つが挙げられる。　　    
+- 「Mapbox GL JS Style Specification - Layers」日本語版の翻訳ルール統一  
+- 「Mapbox GL JS Style Specification」全項目の日本語訳作成
+- 「Mapbox GL JS Style Specification」各項目および全体の図式化
 　　    
-また、グラレコは組織だけでなく、個人の思考力を助けることを改めて学び、研究を通してグラレコの可能性、有効性を知ることができた。グラレコではイラストとキーワードを主に使用していることから、言語や文化を超えての意思疎通に有効性があると考える。今後ますます発展していくと考えられるグラレコにおいて、グラレコ専用アプリが増加していくのではないかと考えられる。
+デジタル地図に関するドキュメントの日本語訳はまだ少ないが、今後日本国内で独自の地図開発が広がると、ドキュメントの日本語訳の需要は高まる。しかし各ドキュメントが独自の翻訳ルールで作成していてはユーザーにとっては理解し難くなる。本研究をさらに進めることでそうしたユーザーのサポートができる。さらにオープンソース等が図式化されていくことでユーザーの理解が深まり、より発展的な活用が期待できる。
 
 ## Reference/参考文献
 
