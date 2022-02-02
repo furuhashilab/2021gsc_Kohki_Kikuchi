@@ -42,7 +42,23 @@ UML クラス図の形式に則り、「Mapbox GL JS Style Specification - Layer
 
 <img width="70%" alt="canva_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/54ceacd0a529b718793b724247176fbedc7839a0/canva_01.png">
 
-## Results　　gsrc="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8aff03e1ed64457b904290b057522dbdba4dd61a/gh_ss_j_antialiased.png">
+## Results　　
+
+Githubレポジトリ　[StyleSpecification4mapbox/Layers]（https://github.com/furuhashilab/StyleSpecification4mapbox/blob/fd5ef5c7cfc9304c7b704431d6ab746eb0ad68a5/Layers.md）
+
+<img width="70%" alt="qr_StyleSpecification4mapbox:Layers" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/9d1cab7154cf27f8b7dba5427592b587fa7a98a4/qr_StyleSpecification4mapbox:Layers.png">
+
+UMLクラス図
+
+<img width="70%" alt="uml_layers_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/9d1cab7154cf27f8b7dba5427592b587fa7a98a4/uml_layers_01.png">
+
+## Discussion
+
+### 日本語訳について
+
+**①翻訳できないワードはどう表記すべきか**
+
+<img width="70%" alt="gh_ss_j_antialiased" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/9d1cab7154cf27f8b7dba5427592b587fa7a98a4/gh_ss_j_antialiased.png">
 
 上記の画像のように、"antialiased"等のワードは翻訳することができない。こういったワードはカタカナ表記、原文通りの表記のどちらにすべきか。
 
