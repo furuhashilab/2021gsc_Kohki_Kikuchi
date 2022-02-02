@@ -44,13 +44,13 @@ UML クラス図の形式に則り、「Mapbox GL JS Style Specification - Layer
 
 ## Results　　
 
-Githubレポジトリ　[StyleSpecification4mapbox/Layers]（https://github.com/furuhashilab/StyleSpecification4mapbox/blob/fd5ef5c7cfc9304c7b704431d6ab746eb0ad68a5/Layers.md）
+Githubレポジトリ　[StyleSpecification4mapbox/Layers](https://github.com/furuhashilab/StyleSpecification4mapbox/blob/fd5ef5c7cfc9304c7b704431d6ab746eb0ad68a5/Layers.md)
 
-<img width="70%" alt="qr_StyleSpecification4mapbox:Layers" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/9d1cab7154cf27f8b7dba5427592b587fa7a98a4/qr_StyleSpecification4mapbox:Layers.png">
+<img alt="qr_StyleSpecification4mapbox:Layers" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/9d1cab7154cf27f8b7dba5427592b587fa7a98a4/qr_StyleSpecification4mapbox:Layers.png">
 
 UMLクラス図
 
-<img width="70%" alt="uml_layers_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/9d1cab7154cf27f8b7dba5427592b587fa7a98a4/uml_layers_01.png">
+<img width="80%" alt="uml_layers_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/9d1cab7154cf27f8b7dba5427592b587fa7a98a4/uml_layers_01.png">
 
 ## Discussion
 
