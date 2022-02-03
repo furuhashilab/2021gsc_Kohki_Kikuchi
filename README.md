@@ -93,7 +93,7 @@ UMLクラス図
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_code.png">
 
 課題②について、Reactドキュメントでも開発時に直接書き込むワードには日本語版でも分かりやすい工夫がされている。「Markdown記法 サンプル集[^1]」に以下の解説があった。
-[^1]@tbpgr. “Markdown記法 サンプル集”. Qiita. 2020-3-27. http://qiita.com/tbpgr/items/989c6badefff69377da7, (参照 2022-2-3).
+[^1]:@tbpgr. “Markdown記法 サンプル集”. Qiita. 2020-3-27. http://qiita.com/tbpgr/items/989c6badefff69377da7, (参照 2022-2-3).
 
 > バッククォートで文字列を囲むことでコードの一部を表示可能です。
 > 
