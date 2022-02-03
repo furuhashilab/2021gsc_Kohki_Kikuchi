@@ -20,7 +20,8 @@
   
 ### ①「Mapbox GL JS Style Specification - Layers」の日本語訳の作成
 
-Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuhashilab/StyleSpecification4mapbox)内に、「Mapbox GL JS Style Specification - Layers」の日本語訳をMarkdown形式で作成する。留意点は以下の通り。
+Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuhashilab/StyleSpecification4mapbox)内に、「Mapbox GL JS Style Specification[^1] - Layers」の日本語訳をMarkdown形式で作成する。留意点は以下の通り。
+[^1]:Mapox. “Mapbox GL JS Style Specification”. Mapbox Docs. 2022-1-6. https://docs.mapbox.com/mapbox-gl-js/style-spec/, (参照 2022-2-3).
 
 - 作業効率化のため、基本的にGoogle Chromeのページ翻訳ツールを利用する。翻訳結果に異常があった場合は、Google翻訳を使って正しい日本語訳を作成する。
 
