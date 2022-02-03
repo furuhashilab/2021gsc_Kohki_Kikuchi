@@ -84,7 +84,8 @@ UMLクラス図
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_home.png">
 
-以上に挙げた課題に対し、[React](https://ja.reactjs.org/)のドキュメントを先行研究として比較対象にし、解決策を提示する。Reactはユーザインタフェース構築のためのJavaScriptライブラリであり、日本語版のドキュメントが用意されている。一部、「Mapbox GL JS Style Specification - Layers」と似ている点もあるため参考にした。
+以上に挙げた課題に対し、React Docks[^2]を先行研究として比較対象にし、解決策を提示する。Reactはユーザインタフェース構築のためのJavaScriptライブラリであり、日本語版のドキュメントが用意されている。一部、「Mapbox GL JS Style Specification - Layers」と似ている点もあるため参考にした。
+[^2]:React. “Docks”. React. 2020-10-5. https://ja.reactjs.org/docs/getting-started.html, (参照 2022-2-3).
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_props.png">
 
@@ -92,8 +93,8 @@ UMLクラス図
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_code.png">
 
-課題②について、Reactドキュメントでも開発時に直接書き込むワードには日本語版でも分かりやすい工夫がされている。「Markdown記法 サンプル集[^1]」に以下の解説があった。
-[^1]:@tbpgr. “Markdown記法 サンプル集”. Qiita. 2020-3-27. http://qiita.com/tbpgr/items/989c6badefff69377da7, (参照 2022-2-3).
+課題②について、Reactドキュメントでも開発時に直接書き込むワードには日本語版でも分かりやすい工夫がされている。「Markdown記法 サンプル集[^3]」に以下の解説があった。
+[^3]:@tbpgr. “Markdown記法 サンプル集”. Qiita. 2020-3-27. http://qiita.com/tbpgr/items/989c6badefff69377da7, (参照 2022-2-3).
 
 > バッククォートで文字列を囲むことでコードの一部を表示可能です。
 > 
@@ -104,7 +105,16 @@ UMLクラス図
 
 課題③については、課題①、②に対する解決策で提示したルールを適応し統一することが適切であると考える。つまり翻訳できないワードについては、固有名詞と開発時に直接書き込むワードは原文の通りに記載し、そうでない場合はカタカナ表記にする。また、同じワードに対し異なる表記を用いることはすべきではない。
 
-課題④について、
+課題④について、「Markdown記法 サンプル集[^3]」に適切な解決策を発見した。
+
+> Markdownの文書の途中に長いリンクを記述したくない場合は、同じリンクの参照を何度も利用する場合は、リンク先への参照を定義することができます。
+> 
+> [こっちからgoogle][google]
+> その他の文章
+> [こっちからもgoogle][google]
+> [google]: https://www.google.co.jp/
+
+MD形式での日本語訳作成においては、定義参照リンクを活用することを統一すべきである。
 
 ### 図式化について
 
