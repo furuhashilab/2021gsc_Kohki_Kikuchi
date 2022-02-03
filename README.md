@@ -66,13 +66,13 @@ UMLクラス図
 
 **②開発時に直接書き込むワードとそうでないものの差別化ができていない。**
 
-<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
+<img width="70%" alt="gh_ss_j_icon-translate" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/2d3f8cc93e38bf8541b1aefc351dc853763d723e/gh_ss_j_icon-translate.png">
 
 上記の画像のように、"map"等の開発時に直接書き込むワードにはクォーテーションマーク（日本語には鉤括弧）を付けているが原本と表現が異なる。より理解しやすくするために、原本に近い表現に統一すべきである。
 
 **③翻訳するワードと原文の通りに記載するワードとの線引きが不明瞭であった。**
 
-<img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/8989977e2c36a2d8ec6dcf70e5694c099ea5abe4/mb_ss_j_word.png">
+<img width="70%" alt="gh_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/944525522d31315ab5996b39b70a42ee9ee0ce79/gh_ss_j_word.png">
 
 上記の画像のように、「丸」と"round"は同じワードであるが、説明のため上部には「丸」、開発時を意識して下部には"round"と記載した。しかしこの状態では「丸」と"round"が同じワードであると表現できていないため誤解を招く恐れがある。
 
