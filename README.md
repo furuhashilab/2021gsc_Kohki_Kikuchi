@@ -136,7 +136,11 @@ MD形式での日本語訳作成においては、定義参照リンクを活用
 
 ## Acknowledgements/謝辞
 本研究を進めるにあたり地球社会共生学部の古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
- 
+
+## グラレコ
+
+<img width="70%" alt="zemiron_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/main/zemiron_01.png">
+
 ## 資料
 **進捗管理用プロジェクト**  
 https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/projects/3  
