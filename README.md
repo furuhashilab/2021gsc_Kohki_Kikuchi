@@ -86,8 +86,8 @@ UMLクラス図
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_home.png">
 
-以上に挙げた課題に対し、React Docks[^3]を先行研究として比較対象にし、解決策を提示する。Reactはユーザインタフェース構築のためのJavaScriptライブラリであり、日本語版のドキュメントが用意されている。一部、「Mapbox GL JS Style Specification - Layers」と似ている点もあるため参考にした。
-[^3]:React. “Docks”. React. 2020-10-5. https://ja.reactjs.org/docs/getting-started.html, (参照 2022-2-3).
+以上に挙げた課題に対し、React Docs[^3]を先行研究として比較対象にし、解決策を提示する。Reactはユーザインタフェース構築のためのJavaScriptライブラリであり、日本語版のドキュメントが用意されている。一部、「Mapbox GL JS Style Specification - Layers」と似ている点もあるため参考にした。
+[^3]:React. “Docs”. React. 2020-10-5. https://ja.reactjs.org/docs/getting-started.html, (参照 2022-2-3).
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_props.png">
 
