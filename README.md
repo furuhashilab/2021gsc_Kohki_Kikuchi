@@ -139,7 +139,7 @@ MD形式での日本語訳作成においては、定義参照リンクを活用
  
 ## 資料
 **進捗管理用プロジェクト**  
-https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/projects/2  
+https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/projects/3  
 **最終プレゼン資料**  
 https://docs.google.com/presentation/d/13QyPYV9XP0rMW9lBEhvvMw2V1saTevBbOVW-3ukvOms/edit?usp=sharing    
 **参考文献リスト**   
