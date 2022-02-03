@@ -39,7 +39,8 @@ Githubレポジトリ[「StyleSpecification4mapbox」](https://github.com/furuha
 
 ### ②「Mapbox GL JS Style Specification - Layers」の図式化
 
-UML クラス図の形式に則り、「Mapbox GL JS Style Specification - Layers」の図式化を行う。図の作成にはCanva(グラフィックデザインプラットフォーム)を利用する。正式な形式に近づけるため、図は英語表記にする。図はレイヤー構造が視覚的に把握できるよう、配置と配色を構造ごとに変更する。また、オプション機能にはアイコンを付け、図をシンプルに表現する。
+「UML 2 クラス図の概要[^2]」を参照し、UMLクラス図の形式に則り、「Mapbox GL JS Style Specification - Layers」の図式化を行う。図の作成にはCanva(グラフィックデザインプラットフォーム)を利用する。正式な形式に近づけるため、図は英語表記にする。図はレイヤー構造が視覚的に把握できるよう、配置と配色を構造ごとに変更する。また、オプション機能にはアイコンを付け、図をシンプルに表現する。
+[^2]:Scott W. Ambler. “UML 2 クラス図の概要”. アジャイルモデリング(AM) 公式サイト. 2003. https://www.ogis-ri.co.jp/otc/swec/process/am-res/am/artifacts/classDiagram.html#DesignClassDiagrams, (参照 2022-2-3).
 
 <img width="70%" alt="canva_01" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/54ceacd0a529b718793b724247176fbedc7839a0/canva_01.png">
 
@@ -85,8 +86,8 @@ UMLクラス図
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_home.png">
 
-以上に挙げた課題に対し、React Docks[^2]を先行研究として比較対象にし、解決策を提示する。Reactはユーザインタフェース構築のためのJavaScriptライブラリであり、日本語版のドキュメントが用意されている。一部、「Mapbox GL JS Style Specification - Layers」と似ている点もあるため参考にした。
-[^2]:React. “Docks”. React. 2020-10-5. https://ja.reactjs.org/docs/getting-started.html, (参照 2022-2-3).
+以上に挙げた課題に対し、React Docks[^3]を先行研究として比較対象にし、解決策を提示する。Reactはユーザインタフェース構築のためのJavaScriptライブラリであり、日本語版のドキュメントが用意されている。一部、「Mapbox GL JS Style Specification - Layers」と似ている点もあるため参考にした。
+[^3]:React. “Docks”. React. 2020-10-5. https://ja.reactjs.org/docs/getting-started.html, (参照 2022-2-3).
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_props.png">
 
@@ -94,8 +95,8 @@ UMLクラス図
 
 <img width="70%" alt="mb_ss_j_word" src="https://github.com/furuhashilab/2021gsc_Kohki_Kikuchi/blob/ed5c4a94505d4d92a8ea06adf86b1b9a33ca3b21/React_code.png">
 
-課題②について、Reactドキュメントでも開発時に直接書き込むワードには日本語版でも分かりやすい工夫がされている。「Markdown記法 サンプル集[^3]」に以下の解説があった。
-[^3]:@tbpgr. “Markdown記法 サンプル集”. Qiita. 2020-3-27. http://qiita.com/tbpgr/items/989c6badefff69377da7, (参照 2022-2-3).
+課題②について、Reactドキュメントでも開発時に直接書き込むワードには日本語版でも分かりやすい工夫がされている。「Markdown記法 サンプル集[^4]」に以下の解説があった。
+[^4]:@tbpgr. “Markdown記法 サンプル集”. Qiita. 2020-3-27. http://qiita.com/tbpgr/items/989c6badefff69377da7, (参照 2022-2-3).
 
 > バッククォートで文字列を囲むことでコードの一部を表示可能です。
 > 
